@@ -19,7 +19,8 @@ int Fib(int fn);
 void main(){
     int fn = 0;
 
-    printf("Which Fibonacci number would you like? Enter a numberical value > 0: ");
+    printf("Which Fibonacci number would you like? "
+        "Enter a numerical value > 0: ");
     
     char buffer[100];
     fgets(buffer, sizeof(buffer), stdin);
