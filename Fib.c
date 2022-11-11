@@ -1,12 +1,12 @@
-/**********************************************************
- * PROGRAM NAME: Fib.c                                    *
- *                                                        *
- * PURPOSE: A program to recursively generate a Fibonacci *
- * number, fn, at any given point in the suquence.        *
- *                                                        *
- * AUTHOR: coderlaw                                       *
- * DATE: 06/11/2022                                       *
- *********************************************************/
+/***********************************************************
+ * PROGRAM NAME: Fib.c                                     *
+ *                                                         *
+ * PURPOSE: A program to recursively generate a Fibonacci  *
+ * number, fn, at any given point in the suquence.         *
+ *                                                         *
+ * AUTHOR: coderlaw                                        *
+ * DATE: 06/11/2022                                        *
+ **********************************************************/
 
 /* Pre-Processor Directives */
 #include <stdio.h>
