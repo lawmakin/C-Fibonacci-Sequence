@@ -37,8 +37,7 @@ void PrintFib(int fn)
 
 int Fib(int fn)
 {
-    if (fn < 2)
-    { 
+    if (fn < 2) { 
         return fn; 
     }
 
